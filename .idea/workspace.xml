@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66d76411-f4dc-49d3-b611-6244091abfd6" name="Changes" comment="Add an invoice date">
+    <list default="true" id="66d76411-f4dc-49d3-b611-6244091abfd6" name="Changes" comment="Add a table">
+      <change afterPath="$PROJECT_DIR$/004 pythonhow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/002 10001-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/002 10001-2023.1.18.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PDFs/002 10002-2023.1.18.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PDFs/002 10002-2023.1.18.pdf" afterDir="false" />
@@ -40,17 +41,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.main .executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bharatshoray/generate pdf invoices&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main (1).executor": "Run",
+    "Python.main .executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Bharatshoray/generate pdf invoices from excel docs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Bharatshoray\generate pdf invoices" />
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710754676171</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add a table">
+      <option name="closed" value="true" />
+      <created>1710756493298</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710756493298</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +169,7 @@
     <MESSAGE value="Load the Excel files into dataframes" />
     <MESSAGE value="Create a minimal PDF for each Excel file" />
     <MESSAGE value="Add an invoice date" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add an invoice date" />
+    <MESSAGE value="Add a table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add a table" />
   </component>
 </project>
